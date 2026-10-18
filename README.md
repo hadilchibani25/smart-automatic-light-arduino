@@ -28,3 +28,10 @@ This project simulates an automatic lighting system using an Arduino Uno and an 
 
 ## Simulation
 The circuit was designed and tested using Tinkercad Circuits.
+## Project Screenshots
+
+### Tinkercad Circuit
+![Tinkercad Circuit](tinkercard-circuit.png)
+
+### Code and Simulation
+![Code and Simulation](tinkercad-code-and-simulation)
